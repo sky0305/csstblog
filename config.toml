@@ -1,4 +1,5 @@
-baseURL = https://sky0305.github.io/csstblog
+baseURL = https://sky0305/csstblog
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "ananke"
+buildFuture = true
